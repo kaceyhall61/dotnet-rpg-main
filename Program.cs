@@ -6,6 +6,7 @@ global using Microsoft.EntityFrameworkCore;
 global using dotnet_rpg.Data;
 global using dotnet_rpg.DTOs.Weapon;
 global using Microsoft.AspNetCore.Mvc;
+global using dotnet_rpg.DTOs.Skill;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Swashbuckle.AspNetCore.Filters;
